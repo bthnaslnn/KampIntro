@@ -20,6 +20,7 @@
         sayilar2[0]=999;
         //sayilar1[0] ?? <<<999>>>
 
+        //Sayılar
 
        
 
